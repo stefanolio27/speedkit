@@ -8,7 +8,7 @@
    nota    : opcional. Si la dejas en "" solo dice que hay versión nueva. */
 
 SpeedKitVersion._recibe({
-  "version": "9.9.9",
+  "version": "1.0.0",
   "url": "https://stefanolio.com/mi-cuenta",
-  "nota": "PRUEBA — avísame y lo dejo en 1.0.0"
+  "nota": ""
 });
