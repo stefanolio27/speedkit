@@ -8,7 +8,7 @@
    nota    : opcional. Si la dejas en "" solo dice que hay versión nueva. */
 
 SpeedKitVersion._recibe({
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "https://stefanolio.com/mi-speed-kit",
-  "nota": ""
+  "nota": "3DKit, transcripción en SubKit y una sola instalación"
 });
