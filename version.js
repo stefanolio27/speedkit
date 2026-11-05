@@ -8,7 +8,7 @@
    nota    : opcional. Si la dejas en "" solo dice que hay versión nueva. */
 
 SpeedKitVersion._recibe({
-  "version": "1.1.2",
+  "version": "1.2.0",
   "url": "https://stefanolio.com/mi-speed-kit",
-  "nota": "Arregla la licencia que se volvía a pedir y las mayúsculas en los subtítulos"
+  "nota": "SubKit abre al instante y LayerKit devuelve un escenario a su sitio"
 });
