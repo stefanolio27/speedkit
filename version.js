@@ -8,7 +8,7 @@
    nota    : opcional. Si la dejas en "" solo dice que hay versión nueva. */
 
 SpeedKitVersion._recibe({
-  "version": "1.2.0",
+  "version": "1.2.2",
   "url": "https://stefanolio.com/mi-speed-kit",
-  "nota": "SubKit abre al instante y LayerKit devuelve un escenario a su sitio"
+  "nota": "SubKit: abre al instante con muchos estilos, y al aplicar un estilo la animación cae donde estaba"
 });
