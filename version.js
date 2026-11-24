@@ -10,5 +10,5 @@
 SpeedKitVersion._recibe({
   "version": "1.2.3",
   "url": "https://stefanolio.com/mi-speed-kit",
-  "nota": "SubKit: abre al instante con muchos estilos, y al aplicar un estilo la animación cae donde estaba"
+  "nota": "SubKit: arreglo para Mac y mejoras en los subtítulos"
 });
